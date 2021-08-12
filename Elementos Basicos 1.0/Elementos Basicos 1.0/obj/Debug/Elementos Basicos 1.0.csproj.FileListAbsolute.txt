@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\Elementos Basicos 1.0\Elementos Basicos 1.0\bin\Debug\Elementos Basicos 1.0.exe.config
+C:\Users\Pc\source\repos\Elementos Basicos 1.0\Elementos Basicos 1.0\bin\Debug\Elementos Basicos 1.0.exe
+C:\Users\Pc\source\repos\Elementos Basicos 1.0\Elementos Basicos 1.0\bin\Debug\Elementos Basicos 1.0.pdb
+C:\Users\Pc\source\repos\Elementos Basicos 1.0\Elementos Basicos 1.0\obj\Debug\Elementos Basicos 1.0.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\Elementos Basicos 1.0\Elementos Basicos 1.0\obj\Debug\Elementos Basicos 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Elementos Basicos 1.0\Elementos Basicos 1.0\obj\Debug\Elementos Basicos 1.0.exe
+C:\Users\Pc\source\repos\Elementos Basicos 1.0\Elementos Basicos 1.0\obj\Debug\Elementos Basicos 1.0.pdb
